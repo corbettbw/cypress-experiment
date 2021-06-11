@@ -1,0 +1,25 @@
+{
+  "name": "cypress-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "form.js",
+  "dependencies": {
+    "cypress": "^7.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "e2e": "cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corbettbw/cypress-experiment.git"
+  },
+  "keywords": [],
+  "author": "Nick Niemeir <nick.niemeir@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corbettbw/cypress-experiment/issues"
+  },
+  "homepage": "https://github.com/corbettbw/cypress-experiment#readme"
+}
